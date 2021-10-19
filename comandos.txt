@@ -1,8 +1,0 @@
-git add . --> adicionar nova modificação
-
-git commit -m "comentário para estar commitando" 
-
-git push origin main --> enviar o projeto para o servidor
-
-
-
