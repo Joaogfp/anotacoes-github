@@ -4,5 +4,12 @@ git commit -m "comentário para estar commitando"
 
 git push origin main --> enviar o projeto para o servidor
 
+git branch (nome da nova branch)
+
+git branch -l    --> adiciona a nova branch criada
+
+git checkout (nome da branch que irá trabalhar) --> entrar na branch
+
+
 
 
